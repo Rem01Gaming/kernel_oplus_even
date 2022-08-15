@@ -311,7 +311,6 @@ enum dmx_frontend_source {
  * struct dmx_frontend - Structure that lists the frontends associated with
  *			 a demux
  *
- * @connectivity_list:	List of front-ends that can be connected to a
  *			particular demux;
  * @source:		Type of the frontend.
  *
